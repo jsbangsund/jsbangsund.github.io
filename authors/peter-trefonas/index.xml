@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Trefonas on John Bangsund</title>
+    <link>https://jsbangsund.github.io/authors/peter-trefonas/</link>
+    <description>Recent content in Peter Trefonas on John Bangsund</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://jsbangsund.github.io/authors/peter-trefonas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improved stability in organic light-emitting devices by mixing ambipolar and wide energy gap hosts</title>
+      <link>https://jsbangsund.github.io/publication/bangsund-improved-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://jsbangsund.github.io/publication/bangsund-improved-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

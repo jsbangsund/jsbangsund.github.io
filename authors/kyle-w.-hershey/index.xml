@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle W. Hershey on John Bangsund</title>
+    <link>https://jsbangsund.github.io/authors/kyle-w.-hershey/</link>
+    <description>Recent content in Kyle W. Hershey on John Bangsund</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://jsbangsund.github.io/authors/kyle-w.-hershey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improved stability in organic light-emitting devices by mixing ambipolar and wide energy gap hosts</title>
+      <link>https://jsbangsund.github.io/publication/bangsund-improved-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://jsbangsund.github.io/publication/bangsund-improved-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isolating Degradation Mechanisms in Mixed Emissive Layer Organic Light-Emitting Devices</title>
+      <link>https://jsbangsund.github.io/publication/bangsund-isolating-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://jsbangsund.github.io/publication/bangsund-isolating-2018/</guid>
+      <description>  Table of Contents Figure   </description>
+    </item>
+    
+    <item>
+      <title>Decoupling degradation in exciton formation and recombination during lifetime testing of organic light-emitting devices</title>
+      <link>https://jsbangsund.github.io/publication/hershey-decoupling-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jsbangsund.github.io/publication/hershey-decoupling-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

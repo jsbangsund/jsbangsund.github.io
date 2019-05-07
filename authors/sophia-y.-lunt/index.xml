@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophia Y. Lunt on John Bangsund</title>
+    <link>https://jsbangsund.github.io/authors/sophia-y.-lunt/</link>
+    <description>Recent content in Sophia Y. Lunt on John Bangsund</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jsbangsund.github.io/authors/sophia-y.-lunt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anions for Near-Infrared Selective Organic Salt Photovoltaics</title>
+      <link>https://jsbangsund.github.io/publication/traverse-anions-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jsbangsund.github.io/publication/traverse-anions-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organic Heptamethine Salts for Photovoltaics and Detectors with Near-Infrared Photoresponse up to 1600 nm</title>
+      <link>https://jsbangsund.github.io/publication/young-organic-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jsbangsund.github.io/publication/young-organic-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
