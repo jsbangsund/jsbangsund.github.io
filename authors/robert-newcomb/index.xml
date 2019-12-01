@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Newcomb | Academic</title>
+    <link>https://jsbangsund.github.io/authors/robert-newcomb/</link>
+      <atom:link href="https://jsbangsund.github.io/authors/robert-newcomb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Newcomb</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://jsbangsund.github.io/img/icon-192.png</url>
+      <title>Robert Newcomb</title>
+      <link>https://jsbangsund.github.io/authors/robert-newcomb/</link>
+    </image>
+    
+    <item>
+      <title>Role of host excimer formation in the degradation of organic light-emitting devices</title>
+      <link>https://jsbangsund.github.io/publication/newcomb-excimers-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
+      <guid>https://jsbangsund.github.io/publication/newcomb-excimers-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

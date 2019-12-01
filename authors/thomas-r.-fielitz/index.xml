@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thomas R. Fielitz on John Bangsund</title>
+    <title>Thomas R. Fielitz | Academic</title>
     <link>https://jsbangsund.github.io/authors/thomas-r.-fielitz/</link>
-    <description>Recent content in Thomas R. Fielitz on John Bangsund</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://jsbangsund.github.io/authors/thomas-r.-fielitz/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://jsbangsund.github.io/authors/thomas-r.-fielitz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas R. Fielitz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2019 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://jsbangsund.github.io/img/icon-192.png</url>
+      <title>Thomas R. Fielitz</title>
+      <link>https://jsbangsund.github.io/authors/thomas-r.-fielitz/</link>
+    </image>
     
     <item>
       <title>Formation of aligned periodic patterns during the crystallization of organic semiconductor thin films</title>
       <link>https://jsbangsund.github.io/publication/bangsund-formation-2019/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
-      
+      <pubDate>Mon, 03 Jun 2019 00:00:00 -0500</pubDate>
       <guid>https://jsbangsund.github.io/publication/bangsund-formation-2019/</guid>
       <description></description>
     </item>

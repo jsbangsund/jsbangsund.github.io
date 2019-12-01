@@ -1,84 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on John Bangsund</title>
+    <title>Authors | Academic</title>
     <link>https://jsbangsund.github.io/authors/</link>
-    <description>Recent content in Authors on John Bangsund</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://jsbangsund.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Catherine P. Clark</title>
-      <link>https://jsbangsund.github.io/authors/catherine-p.-clark/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jsbangsund.github.io/authors/catherine-p.-clark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jack R. Van Sambeek</title>
-      <link>https://jsbangsund.github.io/authors/jack-r.-van-sambeek/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jsbangsund.github.io/authors/jack-r.-van-sambeek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John S. Bangsund</title>
-      <link>https://jsbangsund.github.io/authors/john-s.-bangsund/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jsbangsund.github.io/authors/john-s.-bangsund/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kaicheng Shi</title>
-      <link>https://jsbangsund.github.io/authors/kaicheng-shi/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jsbangsund.github.io/authors/kaicheng-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Russell J. Holmes</title>
-      <link>https://jsbangsund.github.io/authors/russell-j.-holmes/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jsbangsund.github.io/authors/russell-j.-holmes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas R. Fielitz</title>
-      <link>https://jsbangsund.github.io/authors/thomas-r.-fielitz/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jsbangsund.github.io/authors/thomas-r.-fielitz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trevor J. Steiner</title>
-      <link>https://jsbangsund.github.io/authors/trevor-j.-steiner/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jsbangsund.github.io/authors/trevor-j.-steiner/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://jsbangsund.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://jsbangsund.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://jsbangsund.github.io/authors/</link>
+    </image>
     
     <item>
       <title>Dominea C. K. Rathwell</title>
       <link>https://jsbangsund.github.io/authors/dominea-c.-k.-rathwell/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
-      
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
       <guid>https://jsbangsund.github.io/authors/dominea-c.-k.-rathwell/</guid>
       <description></description>
     </item>
@@ -86,8 +23,7 @@
     <item>
       <title>Hong-Yeop Na</title>
       <link>https://jsbangsund.github.io/authors/hong-yeop-na/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
-      
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
       <guid>https://jsbangsund.github.io/authors/hong-yeop-na/</guid>
       <description></description>
     </item>
@@ -95,17 +31,23 @@
     <item>
       <title>Jeong-Hwan Jeon</title>
       <link>https://jsbangsund.github.io/authors/jeong-hwan-jeon/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
-      
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
       <guid>https://jsbangsund.github.io/authors/jeong-hwan-jeon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John S. Bangsund</title>
+      <link>https://jsbangsund.github.io/authors/john-s.-bangsund/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
+      <guid>https://jsbangsund.github.io/authors/john-s.-bangsund/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kyle W. Hershey</title>
       <link>https://jsbangsund.github.io/authors/kyle-w.-hershey/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
-      
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
       <guid>https://jsbangsund.github.io/authors/kyle-w.-hershey/</guid>
       <description></description>
     </item>
@@ -113,9 +55,64 @@
     <item>
       <title>Peter Trefonas</title>
       <link>https://jsbangsund.github.io/authors/peter-trefonas/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
-      
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
       <guid>https://jsbangsund.github.io/authors/peter-trefonas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Newcomb</title>
+      <link>https://jsbangsund.github.io/authors/robert-newcomb/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
+      <guid>https://jsbangsund.github.io/authors/robert-newcomb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Russell J. Holmes</title>
+      <link>https://jsbangsund.github.io/authors/russell-j.-holmes/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
+      <guid>https://jsbangsund.github.io/authors/russell-j.-holmes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catherine P. Clark</title>
+      <link>https://jsbangsund.github.io/authors/catherine-p.-clark/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/authors/catherine-p.-clark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jack R. Van Sambeek</title>
+      <link>https://jsbangsund.github.io/authors/jack-r.-van-sambeek/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/authors/jack-r.-van-sambeek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaicheng Shi</title>
+      <link>https://jsbangsund.github.io/authors/kaicheng-shi/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/authors/kaicheng-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas R. Fielitz</title>
+      <link>https://jsbangsund.github.io/authors/thomas-r.-fielitz/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/authors/thomas-r.-fielitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trevor J. Steiner</title>
+      <link>https://jsbangsund.github.io/authors/trevor-j.-steiner/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/authors/trevor-j.-steiner/</guid>
       <description></description>
     </item>
     
@@ -123,7 +120,6 @@
       <title>Annick Anctil</title>
       <link>https://jsbangsund.github.io/authors/annick-anctil/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/annick-anctil/</guid>
       <description></description>
     </item>
@@ -132,7 +128,6 @@
       <title>Brian Wingate</title>
       <link>https://jsbangsund.github.io/authors/brian-wingate/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/brian-wingate/</guid>
       <description></description>
     </item>
@@ -141,7 +136,6 @@
       <title>Christopher J. Traverse</title>
       <link>https://jsbangsund.github.io/authors/christopher-j.-traverse/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/christopher-j.-traverse/</guid>
       <description></description>
     </item>
@@ -150,7 +144,6 @@
       <title>John Suddard-Bangsund</title>
       <link>https://jsbangsund.github.io/authors/john-suddard-bangsund/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/john-suddard-bangsund/</guid>
       <description></description>
     </item>
@@ -159,7 +152,6 @@
       <title>Margaret Young</title>
       <link>https://jsbangsund.github.io/authors/margaret-young/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/margaret-young/</guid>
       <description></description>
     </item>
@@ -168,7 +160,6 @@
       <title>Matthew Bates</title>
       <link>https://jsbangsund.github.io/authors/matthew-bates/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/matthew-bates/</guid>
       <description></description>
     </item>
@@ -177,7 +168,6 @@
       <title>Pei Chen</title>
       <link>https://jsbangsund.github.io/authors/pei-chen/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/pei-chen/</guid>
       <description></description>
     </item>
@@ -186,7 +176,6 @@
       <title>Richard R. Lunt</title>
       <link>https://jsbangsund.github.io/authors/richard-r.-lunt/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/richard-r.-lunt/</guid>
       <description></description>
     </item>
@@ -195,7 +184,6 @@
       <title>Sophia Y. Lunt</title>
       <link>https://jsbangsund.github.io/authors/sophia-y.-lunt/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/sophia-y.-lunt/</guid>
       <description></description>
     </item>
@@ -204,7 +192,6 @@
       <title>Tyler Patrick</title>
       <link>https://jsbangsund.github.io/authors/tyler-patrick/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/tyler-patrick/</guid>
       <description></description>
     </item>
@@ -213,7 +200,6 @@
       <title>Gang Qian</title>
       <link>https://jsbangsund.github.io/authors/gang-qian/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/gang-qian/</guid>
       <description></description>
     </item>
@@ -222,7 +208,6 @@
       <title>Miles C. Barr</title>
       <link>https://jsbangsund.github.io/authors/miles-c.-barr/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/miles-c.-barr/</guid>
       <description></description>
     </item>
@@ -231,7 +216,6 @@
       <title>Natalia Pajares</title>
       <link>https://jsbangsund.github.io/authors/natalia-pajares/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/natalia-pajares/</guid>
       <description></description>
     </item>
@@ -240,7 +224,6 @@
       <title>Tyler J. Patrick</title>
       <link>https://jsbangsund.github.io/authors/tyler-j.-patrick/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/tyler-j.-patrick/</guid>
       <description></description>
     </item>
@@ -249,7 +232,6 @@
       <title>Yimu Zhao</title>
       <link>https://jsbangsund.github.io/authors/yimu-zhao/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0600</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/yimu-zhao/</guid>
       <description></description>
     </item>
@@ -258,9 +240,9 @@
       <title></title>
       <link>https://jsbangsund.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://jsbangsund.github.io/authors/admin/</guid>
-      <description>I am a materials scientist and optoelectronic device engineer. I am interested in technologies which improve our quality of life while reducing our impact on the environment, such as solar cells and LEDs.</description>
+      <description>&lt;p&gt;I am a materials scientist and optoelectronic device engineer. I am interested in technologies which improve our quality of life while reducing our impact on the environment, such as solar cells and LEDs.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

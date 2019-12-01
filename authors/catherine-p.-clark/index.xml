@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Catherine P. Clark on John Bangsund</title>
+    <title>Catherine P. Clark | Academic</title>
     <link>https://jsbangsund.github.io/authors/catherine-p.-clark/</link>
-    <description>Recent content in Catherine P. Clark on John Bangsund</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://jsbangsund.github.io/authors/catherine-p.-clark/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://jsbangsund.github.io/authors/catherine-p.-clark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Catherine P. Clark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2019 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://jsbangsund.github.io/img/icon-192.png</url>
+      <title>Catherine P. Clark</title>
+      <link>https://jsbangsund.github.io/authors/catherine-p.-clark/</link>
+    </image>
     
     <item>
       <title>Formation of aligned periodic patterns during the crystallization of organic semiconductor thin films</title>
       <link>https://jsbangsund.github.io/publication/bangsund-formation-2019/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
-      
+      <pubDate>Mon, 03 Jun 2019 00:00:00 -0500</pubDate>
       <guid>https://jsbangsund.github.io/publication/bangsund-formation-2019/</guid>
       <description></description>
     </item>
