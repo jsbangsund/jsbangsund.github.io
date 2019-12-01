@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hong-Yeop Na on John Bangsund</title>
+    <title>Hong-Yeop Na | Academic</title>
     <link>https://jsbangsund.github.io/authors/hong-yeop-na/</link>
-    <description>Recent content in Hong-Yeop Na on John Bangsund</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 -0600</lastBuildDate>
+      <atom:link href="https://jsbangsund.github.io/authors/hong-yeop-na/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong-Yeop Na</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://jsbangsund.github.io/img/icon-192.png</url>
+      <title>Hong-Yeop Na</title>
+      <link>https://jsbangsund.github.io/authors/hong-yeop-na/</link>
+    </image>
     
-	<atom:link href="https://jsbangsund.github.io/authors/hong-yeop-na/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Role of host excimer formation in the degradation of organic light-emitting devices</title>
+      <link>https://jsbangsund.github.io/publication/newcomb-excimers-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0600</pubDate>
+      <guid>https://jsbangsund.github.io/publication/newcomb-excimers-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improved stability in organic light-emitting devices by mixing ambipolar and wide energy gap hosts</title>
       <link>https://jsbangsund.github.io/publication/bangsund-improved-2019/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
-      
       <guid>https://jsbangsund.github.io/publication/bangsund-improved-2019/</guid>
       <description></description>
     </item>

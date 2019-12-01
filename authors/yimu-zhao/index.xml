@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yimu Zhao on John Bangsund</title>
+    <title>Yimu Zhao | Academic</title>
     <link>https://jsbangsund.github.io/authors/yimu-zhao/</link>
-    <description>Recent content in Yimu Zhao on John Bangsund</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0600</lastBuildDate>
-    
-	<atom:link href="https://jsbangsund.github.io/authors/yimu-zhao/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://jsbangsund.github.io/authors/yimu-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yimu Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://jsbangsund.github.io/img/icon-192.png</url>
+      <title>Yimu Zhao</title>
+      <link>https://jsbangsund.github.io/authors/yimu-zhao/</link>
+    </image>
     
     <item>
       <title>Organic Salts as a Route to Energy Level Control in Low Bandgap, High Open-Circuit Voltage Organic and Transparent Solar Cells that Approach the Excitonic Voltage Limit</title>
       <link>https://jsbangsund.github.io/publication/suddard-bangsund-organic-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0600</pubDate>
-      
       <guid>https://jsbangsund.github.io/publication/suddard-bangsund-organic-2016/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gang Qian on John Bangsund</title>
+    <title>Gang Qian | Academic</title>
     <link>https://jsbangsund.github.io/authors/gang-qian/</link>
-    <description>Recent content in Gang Qian on John Bangsund</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://jsbangsund.github.io/authors/gang-qian/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://jsbangsund.github.io/authors/gang-qian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gang Qian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://jsbangsund.github.io/img/icon-192.png</url>
+      <title>Gang Qian</title>
+      <link>https://jsbangsund.github.io/authors/gang-qian/</link>
+    </image>
     
     <item>
       <title>Decoupling degradation in exciton formation and recombination during lifetime testing of organic light-emitting devices</title>
       <link>https://jsbangsund.github.io/publication/hershey-decoupling-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
-      
       <guid>https://jsbangsund.github.io/publication/hershey-decoupling-2017/</guid>
       <description></description>
     </item>
