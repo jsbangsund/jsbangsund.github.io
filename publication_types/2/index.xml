@@ -5,7 +5,7 @@
     <link>https://jsbangsund.github.io/publication_types/2/</link>
       <atom:link href="https://jsbangsund.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2020 00:00:00 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 -0500</lastBuildDate>
     <image>
       <url>https://jsbangsund.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Impact of molecular structure on singlet and triplet exciton diffusion in phenanthroline derivatives</title>
+      <link>https://jsbangsund.github.io/publication/rai-tripletld-2020/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/publication/rai-tripletld-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Role of host excimer formation in the degradation of organic light-emitting devices</title>
       <link>https://jsbangsund.github.io/publication/newcomb-excimers-2019/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 -0600</pubDate>
       <guid>https://jsbangsund.github.io/publication/newcomb-excimers-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of degradation on annihilation and efficiency roll-off in organic light-emitting devices</title>
+      <link>https://jsbangsund.github.io/publication/bangsund-annihilation-2019/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/publication/bangsund-annihilation-2019/</guid>
       <description></description>
     </item>
     

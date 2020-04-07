@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deepesh Rai | John Bangsund</title>
+    <link>https://jsbangsund.github.io/authors/deepesh-rai/</link>
+      <atom:link href="https://jsbangsund.github.io/authors/deepesh-rai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deepesh Rai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://jsbangsund.github.io/img/icon-192.png</url>
+      <title>Deepesh Rai</title>
+      <link>https://jsbangsund.github.io/authors/deepesh-rai/</link>
+    </image>
+    
+    <item>
+      <title>Impact of molecular structure on singlet and triplet exciton diffusion in phenanthroline derivatives</title>
+      <link>https://jsbangsund.github.io/publication/rai-tripletld-2020/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/publication/rai-tripletld-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

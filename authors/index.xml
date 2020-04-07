@@ -5,12 +5,44 @@
     <link>https://jsbangsund.github.io/authors/</link>
       <atom:link href="https://jsbangsund.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2020 00:00:00 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 -0500</lastBuildDate>
     <image>
       <url>https://jsbangsund.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://jsbangsund.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Deepesh Rai</title>
+      <link>https://jsbangsund.github.io/authors/deepesh-rai/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/authors/deepesh-rai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier G. Barriocanal</title>
+      <link>https://jsbangsund.github.io/authors/javier-g.-barriocanal/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/authors/javier-g.-barriocanal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John S. Bangsund</title>
+      <link>https://jsbangsund.github.io/authors/john-s.-bangsund/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/authors/john-s.-bangsund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Russell J. Holmes</title>
+      <link>https://jsbangsund.github.io/authors/russell-j.-holmes/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/authors/russell-j.-holmes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dominea C. K. Rathwell</title>
@@ -37,14 +69,6 @@
     </item>
     
     <item>
-      <title>John S. Bangsund</title>
-      <link>https://jsbangsund.github.io/authors/john-s.-bangsund/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 -0600</pubDate>
-      <guid>https://jsbangsund.github.io/authors/john-s.-bangsund/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kyle W. Hershey</title>
       <link>https://jsbangsund.github.io/authors/kyle-w.-hershey/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 -0600</pubDate>
@@ -65,14 +89,6 @@
       <link>https://jsbangsund.github.io/authors/robert-newcomb/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 -0600</pubDate>
       <guid>https://jsbangsund.github.io/authors/robert-newcomb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Russell J. Holmes</title>
-      <link>https://jsbangsund.github.io/authors/russell-j.-holmes/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 -0600</pubDate>
-      <guid>https://jsbangsund.github.io/authors/russell-j.-holmes/</guid>
       <description></description>
     </item>
     
