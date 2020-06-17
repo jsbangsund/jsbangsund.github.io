@@ -5,12 +5,20 @@
     <link>https://jsbangsund.github.io/</link>
       <atom:link href="https://jsbangsund.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>John Bangsund</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jun 2020 00:00:00 -0500</lastBuildDate>
     <image>
       <url>https://jsbangsund.github.io/img/icon-192.png</url>
       <title>John Bangsund</title>
       <link>https://jsbangsund.github.io/</link>
     </image>
+    
+    <item>
+      <title>Sub-turn-on Exciton Quenching Due to Molecular Orientation and Polarization in Organic Light-Emitting Devices</title>
+      <link>https://jsbangsund.github.io/publication/bangsund-sub-turn-on-2020/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/publication/bangsund-sub-turn-on-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact of molecular structure on singlet and triplet exciton diffusion in phenanthroline derivatives</title>

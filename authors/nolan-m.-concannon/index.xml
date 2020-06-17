@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nolan M. Concannon | John Bangsund</title>
+    <link>https://jsbangsund.github.io/authors/nolan-m.-concannon/</link>
+      <atom:link href="https://jsbangsund.github.io/authors/nolan-m.-concannon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nolan M. Concannon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jun 2020 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://jsbangsund.github.io/img/icon-192.png</url>
+      <title>Nolan M. Concannon</title>
+      <link>https://jsbangsund.github.io/authors/nolan-m.-concannon/</link>
+    </image>
+    
+    <item>
+      <title>Sub-turn-on Exciton Quenching Due to Molecular Orientation and Polarization in Organic Light-Emitting Devices</title>
+      <link>https://jsbangsund.github.io/publication/bangsund-sub-turn-on-2020/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 -0500</pubDate>
+      <guid>https://jsbangsund.github.io/publication/bangsund-sub-turn-on-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
